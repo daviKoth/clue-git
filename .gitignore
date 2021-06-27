@@ -1,0 +1,8 @@
+#Shull file
+*.sh
+*.vta
+
+#Shull X Advanced file
+*.shx
+*.bop
+*.idk
